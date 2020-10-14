@@ -20,3 +20,16 @@ nav > * {
 main {
   margin: 1em;
 }
+
+a {
+  text-decoration: none;
+  color: red;
+}
+
+a:hover {
+  color: blue;
+}
+
+.selected {
+  color: green;
+}
